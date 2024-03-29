@@ -77,4 +77,20 @@ p{
     .Tempo li::marker{
         color: #7a284e;
         font-size: 12px;
+    } 
+    h2 {
+        font-size: 28px;
+        color: #854832;
+        line-height: 100%;
+        margin-bottom: 24px;
+    }
+
+    .Ingredientes li::marker{
+        font-size: 12px;
+        color: #854832;
+    }
+
+    hr{
+        border: 1px solid #e3ddd7;
+        margin-block: 32px;
     }
